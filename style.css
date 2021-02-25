@@ -1,0 +1,92 @@
+.line{
+    height: 8px;
+        background-color:aqua;
+    width:900px;
+        margin:8px auto;
+}
+#UBS{
+  text-align:center;
+ background:linear-gradient(#FFFF00 0%, #212121 100%);
+  top:0px;
+    bottom:0px;
+  right:0px;
+    left:0px     
+}
+body{
+background-color: aquamarine;
+}
+p{
+  color:red
+}
+.menu{
+     list-style:none;
+    font-family:monospace;
+    position:fixed;
+    top:0px;
+    right:30px;
+    cursor:pointer;
+    z-index: 10;
+    background:white;
+    width:100%;
+        margin-top: 0px;
+    
+    
+}   
+.link{
+       color:red;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size:20px;
+        display: inline;
+    right: 30px;
+    left: 30px;
+}
+.link:hover{
+     background-color:cyan;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#favoritebook{
+    text-align:center;
+ background:blueviolet;
+    right:auto;
+    left:auto;
+  
+}
+ 
+#favbook{
+    width:500px;
+    height: 500px;
+}
+.i:hover{
+    transform:scale(0.9)
+}
+.i{
+ width: 500px;
+    height: 500px;
+}
+#i{
+    text-align: center;
+    background-color: gold;
+}
+#life{
+    background-color: aqua;
+    text-align: center;
+    font-family:fantasy
+}
+#location{
+    text-align: center;
+    background-color: crimson;
+    
+}
+.contact_1 a{
+    color:white;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
